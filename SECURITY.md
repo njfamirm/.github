@@ -4,7 +4,7 @@
 
 If there are any vulnerabilities in our projects, don't hesitate to _report them_.
 
-1. [contact us at telegram](https://t.me/AlwatrSupport).
+1. [contact us at telegram](https://t.me/njfamirm).
 
 2. Describe the vulnerability.
 
